@@ -1,0 +1,6 @@
+{
+  "apiBase": "https://folks-mrs-beliefs-vegetable.trycloudflare.com",
+  "enabledPersonas": [
+    "self"
+  ]
+}
