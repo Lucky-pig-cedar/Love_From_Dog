@@ -1,5 +1,5 @@
 {
-  "apiBase": "https://aims-soft-random-announcement.trycloudflare.com",
+  "apiBase": "https://lucky-pig-api.lucky-pig-cedar.workers.dev",
   "enabledPersonas": [
     "self"
   ]
